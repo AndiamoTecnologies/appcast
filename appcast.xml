@@ -8,10 +8,9 @@
     </item>
     <item>
         <title>Version 0.7.0+18</title>
-          <description><![CDATA[
-            <h2>La descripcion perro</h2>
-          ]]>
-        </description>
+          <description>
+            La descripcion perro
+          </description>
         <enclosure sparkle:version="0.7.0+18" sparkle:os="android" />
     </item>
   </channel>
