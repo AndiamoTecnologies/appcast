@@ -11,7 +11,7 @@
           <description>
             La descripcion perro
           </description>
-          <!--  <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> -->
+          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
         <enclosure sparkle:version="0.7.0+18" sparkle:os="android" />
     </item>
   </channel>
