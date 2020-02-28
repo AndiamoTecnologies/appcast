@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
+    <!-- Android -->
     <item>
         <title>Version 0.6.0+18</title>
         <enclosure sparkle:version="0.6.0+18" sparkle:os="android" />
@@ -14,6 +15,22 @@
           <!-- In case of critical update -->
           <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
         <enclosure sparkle:version="0.7.0+18" sparkle:os="android" />
+    </item>
+    
+    <!-- ios -->
+    <item>
+        <title>Version 0.6.0+18</title>
+        <enclosure sparkle:version="0.6.0+18" sparkle:os="iOS" />
+    </item>
+    <!-- The best chosen release -->
+    <item>
+        <title>Version 0.7.0+18</title>
+          <description>
+            La descripcion perro
+          </description>
+          <!-- In case of critical update -->
+          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+        <enclosure sparkle:version="0.7.0+18" sparkle:os="iOS" />
     </item>
   </channel>
 </rss>
