@@ -24,7 +24,7 @@
           </description>
           <!-- In case of critical update -->
           <!-- <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> -->
-        <enclosure sparkle:version="0.7.0+18" sparkle:os="android" />
+        <enclosure sparkle:version="0.8.0+18" sparkle:os="android" />
     </item>
     
     <!-- ios -->
