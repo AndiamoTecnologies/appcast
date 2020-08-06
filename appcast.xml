@@ -6,16 +6,18 @@
         <title>Version 0.6.0+18</title>
         <enclosure sparkle:version="0.6.0+18" sparkle:os="android" />
     </item>
-       <!-- -->
+    
+    <!-- -->
     <item>
         <title>Version 0.7.0+18</title>
           <description>
-            La descripcion perro 
+            La descripcion perro
           </description>
           <!-- In case of critical update -->
           <!-- <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
         <enclosure sparkle:version="0.7.0+18" sparkle:os="android" />
     </item>
+    
      <!-- The best chosen release -->
     <item>
         <title>Version 0.8.0+18</title>
@@ -24,7 +26,7 @@
           </description>
           <!-- In case of critical update -->
           <!-- <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags> -->
-        <enclosure sparkle:version="0.8.0+19" sparkle:os="android" />
+        <enclosure sparkle:version="0.8.0+18" sparkle:os="android" />
     </item>
     
     <!-- ios -->
@@ -32,6 +34,7 @@
         <title>Version 0.6.0+18</title>
         <enclosure sparkle:version="0.6.0+18" sparkle:os="iOS" />
     </item>
+    
     <!-- The best chosen release -->
     <item>
         <title>Version 0.7.0+18</title>
