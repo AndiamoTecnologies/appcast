@@ -34,14 +34,14 @@
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 0.9.0+25</title>
+        <title>Version 0.8.0+24</title>
           <description>
             La descripcion perro
           </description>
           <!-- In case of critical update -->
       
-          <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags>
-        <enclosure sparkle:version="0.9.0+25" sparkle:os="iOS" />
+          <!-- <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags> -->
+        <enclosure sparkle:version="0.8.0+24" sparkle:os="iOS" />
     </item>
   </channel>
 </rss>
