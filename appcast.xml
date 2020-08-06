@@ -23,7 +23,7 @@
             La descripcion perro
           </description>
           <!-- In case of critical update -->
-          <!-- <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags> -->
+          <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
         <enclosure sparkle:version="0.9.0+25" sparkle:os="android" />
     </item>
     
