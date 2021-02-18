@@ -16,7 +16,7 @@
     </item>
      <!-- The best chosen release -->
     <item>
-        <title>Version 1.0.3+37</title>
+        <title>Version 1.0.3</title>
         <description> Version critica </description>
           <!-- In case of critical update 
                Only updates marked as critical will prompt to update -->
