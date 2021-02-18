@@ -18,13 +18,13 @@
     </item>
      <!-- The best chosen release -->
     <item>
-        <title>Version 0.8.0+24</title>
+        <title>Version 1.0.3+37</title>
           <description>
-            La descripcion perro
+            Version critica
           </description>
           <!-- In case of critical update -->
-          <!-- <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags> -->
-        <enclosure sparkle:version="0.8.0+18" sparkle:os="android" />
+          <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
+        <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
     </item>
     
     <!-- ios -->
