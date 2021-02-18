@@ -3,8 +3,8 @@
   <channel>
     <!-- Android -->
     <item>
-        <title>Version 0.6.0+18</title>
-        <enclosure sparkle:version="0.6.0+18" sparkle:os="android" />
+        <title>Version 1.0.2+36</title>
+        <enclosure sparkle:version="1.0.2+36" sparkle:os="android" />
     </item>
     <!-- -->
     <item>
