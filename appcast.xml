@@ -18,7 +18,8 @@
     <item>
         <title>Version 1.0.3+37</title>
         <description> Version critica </description>
-          <!-- In case of critical update -->
+          <!-- In case of critical update 
+               Only updates marked as critical will prompt to update -->
           <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
         <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
     </item>
@@ -34,7 +35,8 @@
           <description>
             La descripcion perro
           </description>
-          <!-- In case of critical update -->      
+          <!-- In case of critical update 
+               Only updates marked as critical will prompt to update -->
           <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags> 
         <enclosure sparkle:version="1.0.3+37" sparkle:os="iOS" />
     </item>
