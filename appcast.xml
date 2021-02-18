@@ -9,9 +9,7 @@
     <!-- -->
     <item>
         <title>Version 1.0.2+36</title>
-          <description>
-            Version nueva
-          </description>
+          <description>  Version nueva   </description>
           <!-- In case of critical update -->
           <!-- <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
         <enclosure sparkle:version="1.0.2+36" sparkle:os="android" />
@@ -19,11 +17,9 @@
      <!-- The best chosen release -->
     <item>
         <title>Version 1.0.3+37</title>
-          <description>
-            Version critica
-          </description>
+        <description> Version critica </description>
           <!-- In case of critical update -->
-          <!-- <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>-->
+          <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
         <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
     </item>
     
@@ -38,9 +34,8 @@
           <description>
             La descripcion perro
           </description>
-          <!-- In case of critical update -->
-      
-          <!-- <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags> -->
+          <!-- In case of critical update -->      
+          <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags> 
         <enclosure sparkle:version="1.0.3+37" sparkle:os="iOS" />
     </item>
   </channel>
