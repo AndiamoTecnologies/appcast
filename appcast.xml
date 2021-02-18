@@ -6,23 +6,24 @@
         <title>Version 1.0.2+36</title>
         <enclosure sparkle:version="1.0.2+36" sparkle:os="android" />
     </item>
-    <!-- -->
+         <!-- The best chosen release -->
     <item>
-        <title>Version 1.0.2+36</title>
-          <description>  Version nueva   </description>
-          <!-- In case of critical update -->
-          <!-- <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
-        <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
-    </item>
-     <!-- The best chosen release -->
-    <item>
-        <title>Version 1.0.3</title>
+        <title>Version 1.0.3 critica</title>
         <description> Version critica </description>
           <!-- In case of critical update 
                Only updates marked as critical will prompt to update -->
           <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
         <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
     </item>
+    <!-- -->
+    <item>
+        <title>Version 1.0.3+37</title>
+          <description>  Version nueva   </description>
+          <!-- In case of critical update -->
+          <!-- <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
+        <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
+    </item>
+
     
     <!-- ios -->
     <item>
