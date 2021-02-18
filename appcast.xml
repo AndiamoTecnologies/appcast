@@ -12,7 +12,7 @@
           <description>  Version nueva   </description>
           <!-- In case of critical update -->
           <!-- <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
-        <enclosure sparkle:version="1.0.2+36" sparkle:os="android" />
+        <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
     </item>
      <!-- The best chosen release -->
     <item>
