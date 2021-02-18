@@ -7,7 +7,7 @@
         <enclosure sparkle:version="1.0.2+36" sparkle:os="android" />
     </item>
 
-         <!-- The best chosen release -->
+    <!-- The best chosen release -->
     <item>
         <title>Version 1.0.3+37 critica</title>
         <description> Version critica </description>
@@ -17,7 +17,7 @@
         <enclosure sparkle:version="1.0.3+37" sparkle:os="android" />
     </item>
     
-    <!-- ios -->
+    <!-- IOS -->
     <item>
         <title>Version 1.0.2+36</title>
         <enclosure sparkle:version="1.0.2+36" sparkle:os="iOS" />
