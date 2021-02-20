@@ -9,7 +9,7 @@
 
     <!-- The best chosen release -->
     <item>
-        <title>Version 1.2.0+45 critica</title>
+        <title>Version 1.2.0+45 critica Android</title>
         <description> Version critica </description>
           <!-- In case of critical update 
                Only updates marked as critical will prompt to update -->
@@ -24,14 +24,14 @@
     </item>
     <!-- The best chosen release -->
     <item>
-        <title>Version 1.2.0+45</title>
+        <title>Version 1.2.0+45 critica iOS</title>
           <description>
             La descripcion perro
           </description>
           <!-- In case of critical update 
                Only updates marked as critical will prompt to update -->
           <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags> 
-        <enclosure sparkle:version="1.0.3+37" sparkle:os="iOS" />
+        <enclosure sparkle:version="1.2.0+45" sparkle:os="iOS" />
     </item>
   </channel>
 </rss>
