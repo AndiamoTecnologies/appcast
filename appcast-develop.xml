@@ -4,11 +4,11 @@
     <!-- Android -->
     <!-- The best chosen release -->
     <item>
-      <title>Version 1.2.0+48 critica Android</title>
+      <title>Version 1.5.0+62 critica Android</title>
       <description> Version critica </description>
       <!-- In case of critical update Only updates marked as critical will prompt to update -->
       <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
-      <enclosure sparkle:version="1.2.0+48" sparkle:os="android" />
+      <enclosure sparkle:version="1.5.0+62" sparkle:os="android" />
     </item>
     
     <!-- IOS -->
