@@ -5,7 +5,7 @@
     <!-- The best chosen release -->
     <item>
       <title>Version 1.5.0+62 crítica Android</title>
-      <description> Version crítica: nuevo sistema de referidos, AndiCréditos y ¡muchos descuentos! </description>
+      <description> Version crítica: nuevo sistema de referidos, AndiCréditos y ¡muchos descuentos!\n Por favor actualizar para poder disfrutar de lo nuevo</description>
       <!-- In case of critical update Only updates marked as critical will prompt to update -->
       <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
       <enclosure sparkle:version="1.5.0+62" sparkle:os="android" />
