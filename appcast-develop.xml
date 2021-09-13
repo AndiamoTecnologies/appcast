@@ -5,7 +5,11 @@
     <!-- The best chosen release -->
     <item>
       <title>Version 1.5.0+62 crítica Android</title>
-      <description> Version crítica: nuevo sistema de referidos, AndiCréditos y ¡muchos descuentos!. Por favor actualizar para poder disfrutar de lo nuevo</description>
+            <description>Version crítica:
+        Nuevo sistema de referidos, AndiCréditos y ¡muchos descuentos!.
+        
+      Por favor actualizar para poder disfrutar de lo nuevo.
+      </description>
       <!-- In case of critical update Only updates marked as critical will prompt to update -->
       <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
       <enclosure sparkle:version="1.5.0+62" sparkle:os="android" />
@@ -15,7 +19,11 @@
     <!-- The best chosen release -->
     <item>
       <title>Version 1.5.0+62 crítica iOS</title>
-      <description> Version crítica: nuevo sistema de referidos, AndiCréditos y ¡muchos descuentos!. Por favor actualizar para poder disfrutar de lo nuevo</description>
+            <description>Version crítica:
+        Nuevo sistema de referidos, AndiCréditos y ¡muchos descuentos!.
+        
+      Por favor actualizar para poder disfrutar de lo nuevo.
+      </description>
       <!-- In case of critical update Only updates marked as critical will prompt to update -->
       <!-- <sparkle:tags> <sparkle:criticalUpdate /></sparkle:tags> -->
       <enclosure sparkle:version="1.5.0+62" sparkle:os="iOS" />
