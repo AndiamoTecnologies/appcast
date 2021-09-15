@@ -12,7 +12,7 @@
       </description>
       <!-- In case of critical update Only updates marked as critical will prompt to update -->
       <sparkle:tags> <sparkle:criticalUpdate/></sparkle:tags>
-      <enclosure sparkle:version="1.5.0+63" sparkle:os="android" />
+      <enclosure sparkle:version="1.5.0+62" sparkle:os="android" />
     </item>
     
     <!-- IOS -->
